@@ -19,16 +19,13 @@ Fullstack developer & team lead. I build production e-commerce and CMS platforms
 ---
 
 ### Recent work
-- 💍 **E-commerce + 1C integration** — jewelry storefront with atomic order-level ID reservation, fiscal webhook handling, and full ERP sync
-- 🎟 **Loyalty system** — multi-tier cashback program built on top of a booking platform's API, with rolling spend windows and tier logic
-- 🤖 **Messenger bot** — serverless customer-support relay bot on Yandex Cloud Functions
-- 🌌 **WebGL portfolio piece** — scroll-driven Three.js particle scene, built from scratch, mobile-optimized
-- 🔍 **Third-party CRM integration debugging** — traced order/stock sync failures between an e-commerce store and an external CRM plugin
 - 🌍 **Infrastructure recovery** — resolved ISP-level IP blocking and cross-provider DNS routing issues for an international client
-- 📦 **Deployment troubleshooting** — fixed OOM Docker build failures on a memory-constrained VPS, CI/CD pipeline timeouts, and cross-provider hosting migrations
-- ✉️ **Email deliverability** — configured SPF/DKIM/DMARC and diagnosed spam-delivery root causes for a transactional mail setup
-- 🧩 **SaaS architecture design** — marketplace analytics platform: queue-based rate limiting per seller, data modeling, API constraint handling
+- 🌌 **WebGL portfolio piece** — scroll-driven Three.js particle scene, built from scratch, mobile-optimized
 - 🌐 **Legacy platform tooling** — multilingual content systems, custom admin panels, and access-controlled downloads on 1C-Bitrix
+- 💍 **E-commerce + 1C integration** — jewelry storefront with atomic order-level ID reservation, fiscal webhook handling, full ERP sync, and ГИИС ДМДК precious-metals reporting integration
+- 🎟 **Loyalty SaaS** — standalone multi-tier cashback service integrating with the Yclients API, with rolling 12-month spend windows and automatic tier logic
+- 🧩 **SaaS architecture design** — marketplace analytics platform: queue-based rate limiting per seller, data modeling, API constraint handling
+- 🎁 **Gift certificate SaaS** — integrates with popular CMS platforms, with ledger-based accounting for accurate balance issuance, redemption, and accrual (fintech-grade)
 
 ---
 
